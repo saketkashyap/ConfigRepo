@@ -1,0 +1,12 @@
+Employees:
+ id: 1
+  firstname: Sonia
+  lastname: Singh
+  emailid: abc@123.com
+  companycode: 744
+  
+ id: 2
+  firstname: Kiara
+  lastname: Kashyap
+  emailid: ggg@123.com
+  companycode: 744
